@@ -10,8 +10,8 @@ A machine learning based classification system that automatically detects whethe
 |---|---|
 | 📓 Jupyter Notebook | [`Notebook/Message_Intelligence_System.ipynb`](./Notebook/Message_Intelligence_System.ipynb) |
 | 📊 Dataset | [`Dataset/Message_Intelligence_Dataset.csv`](./Dataset/Message_Intelligence_Dataset.csv) |
-| 📄 Theory / Concepts (PDF) | [`Docs/Theory.pdf`](./Theory.pdf) |
-| 🎥 Video Explanation | [Watch a project explanation video](#) |
+| 📄 Theory / Concepts (PDF) | [`Theory.pdf`](./Theory.pdf) |
+| 🎥 Video Explanation | [`Explanation Video`](#) |
 
 ---
 
