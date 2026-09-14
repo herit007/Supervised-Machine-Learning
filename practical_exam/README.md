@@ -201,7 +201,7 @@ jupyter notebook Notebook/CustomerChurn_SupervisedLearning.ipynb
 practical_exam/
 │
 ├── Dataset/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   └── Telco-Customer-Churn.csv
 │
 ├── Notebook/
 │   ├── CustomerChurn_SupervisedLearning.ipynb
