@@ -18,7 +18,7 @@ Watch the full project walkthrough here:
 |---|---|
 | 📓 Jupyter Notebook | [`Notebook/CustomerChurn_SupervisedLearning.ipynb`](https://github.com/herit007/Supervised-Machine-Learning/blob/main/practical_exam/Notebook/CustomerChurn_SupervisedLearning.ipynb) |
 | 🤖 Saved Model | [`Notebook/churn_model.pkl`](https://github.com/herit007/Supervised-Machine-Learning/blob/main/practical_exam/Notebook/churn_model.pkl) |
-| 📊 Dataset | [`Dataset/WA_Fn-UseC_-Telco-Customer-Churn.csv`](https://github.com/herit007/Supervised-Machine-Learning/blob/main/practical_exam/Dataset/Telco-Customer-Churn.csv) |
+| 📊 Dataset | [`Dataset/Telco-Customer-Churn.csv`](https://github.com/herit007/Supervised-Machine-Learning/blob/main/practical_exam/Dataset/Telco-Customer-Churn.csv) |
 | 📋 Summary Report | [`summary_report.md`](https://github.com/herit007/Supervised-Machine-Learning/blob/main/practical_exam/summary_report.md) |
 | 📦 Requirements | [`requirements.txt`](https://github.com/herit007/Supervised-Machine-Learning/blob/main/practical_exam/requirements.txt) |
 
